@@ -1,0 +1,21 @@
+{
+  "sale": [
+    {
+      "price": "$2,850,000",
+      "address": "123 Ocean Ave, Santa Monica, CA",
+      "photos": [
+        "https://i.freeimage.host/abc123.jpg",
+        "https://i.freeimage.host/def456.jpg"
+      ]
+    }
+  ],
+  "lease": [
+    {
+      "price": "$8,500/mo",
+      "address": "456 Beach St, Santa Monica, CA",
+      "photos": [
+        "https://i.freeimage.host/xyz789.jpg"
+      ]
+    }
+  ]
+}
