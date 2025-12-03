@@ -32,5 +32,34 @@
       "hoa": "12"
     }
   ],
-  "lease": []
+  "lease": [
+    {
+      "status": "Active",
+      "type": "Single Family Home",
+      "address": "16321 Pacific Coast HWY pacific palisades ca, 90272",
+      "price": "12",
+      "desc": "121212",
+      "mls": "121",
+      "year": "4",
+      "sqft": "5",
+      "stories": "45",
+      "garage": "4",
+      "parking": "54",
+      "cooling": "5",
+      "heating": "4",
+      "fireplace": "54",
+      "pool": "54",
+      "view": "54",
+      "flooring": "54",
+      "appliances": "54",
+      "laundry": "5",
+      "interior": "4",
+      "exterior": "5",
+      "community": "5445",
+      "photos": [],
+      "lease_term": "1212",
+      "security_deposit": "1221",
+      "pets": "1221"
+    }
+  ]
 }
