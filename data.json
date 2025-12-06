@@ -29,23 +29,23 @@
       "units": [
         {
           "beds_baths": "3 / 2",
-          "actual_rent": "$3,600.00"
+          "actual_rent": "$3,600.00/mo"
         },
         {
           "beds_baths": "1 / 1 ",
-          "actual_rent": "$2,000.00"
+          "actual_rent": "$2,000.00/mo"
         },
         {
           "beds_baths": "2 / 1",
-          "actual_rent": "$2,600.00"
+          "actual_rent": "$2,600.00/mo"
         },
         {
           "beds_baths": "3 / 2.5",
-          "actual_rent": "$5,000.00"
+          "actual_rent": "$5,000.00/mo"
         },
         {
           "beds_baths": "2 / 1",
-          "actual_rent": "$2,800.00"
+          "actual_rent": "$2,800.00/mo"
         }
       ]
     }
