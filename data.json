@@ -48,6 +48,34 @@
           "actual_rent": "$2,800.00/mo"
         }
       ]
+    },
+    {
+      "status": "Active",
+      "type": "Multi-Unit Building",
+      "address": "16321 Pacific Coast HWY",
+      "price": "3333",
+      "beds": "33",
+      "baths": "333",
+      "lot": "333",
+      "hoa": "333",
+      "desc": "333",
+      "sqft": "333",
+      "year": "3333",
+      "stories": "333",
+      "garage": "333",
+      "parking": "333",
+      "cooling": "333",
+      "heating": "333",
+      "view": "333",
+      "pool": "333",
+      "fireplace": "333",
+      "flooring": "333",
+      "appliances": "33",
+      "laundry": "333",
+      "interior": "333",
+      "exterior": "333",
+      "community": "33",
+      "num_units": "333"
     }
   ],
   "lease": []
