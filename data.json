@@ -1,41 +1,4 @@
 {
-  "sale": [
-    {
-      "status": "Active",
-      "property_type": "Multi-Unit Building",
-      "address": "16321 Pacific Coast HWY",
-      "price": "333",
-      "beds": "3333",
-      "baths": "33",
-      "lot": "3333",
-      "hoa": "333",
-      "lease_term": "",
-      "security_deposit": "",
-      "pets": "",
-      "desc": "333",
-      "mls": "33",
-      "sqft": "33",
-      "year": "333",
-      "stories": "33",
-      "garage": "333",
-      "parking": "33",
-      "cooling": "33",
-      "heating": "333",
-      "view": "33",
-      "pool": "3",
-      "fireplace": "33",
-      "flooring": "333",
-      "appliances": "33",
-      "laundry": "33",
-      "interior": "33",
-      "exterior": "333",
-      "community": "33",
-      "photos": [
-        "photos/16321-pacific-coast-hwy-1765046149206826.jpeg"
-      ],
-      "num_units": "333",
-      "units": []
-    }
-  ],
+  "sale": [],
   "lease": []
 }
